@@ -1,0 +1,47 @@
+
+h1{
+    margin-bottom: 20px;
+    color: brown;
+
+}
+
+h2{
+    color: brown;
+font-size: 40px;
+}
+
+
+h3{font-size: 28px;}
+
+p{
+    background-color: rgb(130, 240, 232);
+
+    margin-bottom: 40px;
+
+    margin-left: 20px;
+
+    
+    
+   padding-bottom: 40px;
+}
+
+
+img{width: 150px;}
+
+
+
+
+.web{background: rgb(red, green, blue);}
+
+   
+a{
+    background-color: rgb(198, 202, 202);
+    margin-right: 50px;
+}
+
+
+
+
+
+
+/*
