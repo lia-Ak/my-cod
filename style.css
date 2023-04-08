@@ -1,0 +1,22 @@
+*{
+margin: 10px;
+padding: 0;
+
+}
+
+
+table{
+    background-color: rgb(247, 232, 232);
+   height: 10px;
+   width: 500px;
+   align-items: center;
+}
+
+
+ figure img
+ {
+    width: 20px;
+    margin: 20px;
+    size: 20px;
+    src: 2px;
+ }
