@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>tabl</title>
+    <link rel="stylesheet" href="./style.css">
+    <h1>Список валют</h1>
+    <li>€(EUR)-Евро (Страны Европы)</li>
+    <li>$(USD)-Доллар (США)</li>
+    <li>£(GBP)-Фунт стерлиноов(Великобритания)</li>
+    <li>¥(JPY)- Иена (Япония)</li>
+    <li>@(GEL)-Лера (Грузия)</li>
+
+    <h2> Курс на сегодня</h2>
+    <style>
+      
+
+        td
+        th {
+            background: rgb(238, 217, 217);
+            padding: 5px;
+        }
+        img {margin: 20px; padding: 20px; width: 150px;
+
+        }
+    </style>
+</head>
+
+<body>
+
+
+
+    <table border="1" width="100%">
+        <col style="width: 10%;">
+        <col style="width: 10px;">
+        <col style="width: 10px;">
+        <col style="height: 3%;">
+        <col style="height: 3%;">
+        <col style="height: 3%;">
+        <col style="margin: 20px;">
+        <thead>
+
+
+
+        <tr>
+
+            <th>Флаг</th>
+            <th>Валюта</th>
+            <th>Курс</th>
+        </tr>
+</thead>
+        <tr:item>
+            
+        <td colspan=""><img src="illustration-der-usa-flagge_53876-18165.avif" alt="" srcset=""><img src="illustration-der-flagge-der-europaeischen-union_53876-27018.avif" alt="" srcset=""></td>
+            <td>$ (USD)/€(EUR)</td>
+            <td>0,93€</td>
+        
+            </tr>
+            <tr>
+            
+                <td><img src="illustration-der-britischen-flagge_53876-18166.avif" alt="" srcset=""><img src="illustration-der-flagge-der-europaeischen-union_53876-27018.avif" alt="" srcset="">
+                
+                <td>£(GBP)/€(EUR)</td>
+                <td>1,17€</td>
+            </tr>
+
+            <tr>
+                <td colspan=""><img src="illustration-der-japan-flagge_53876-27128.avif" alt="" srcset=""><img src="illustration-der-flagge-der-europaeischen-union_53876-27018.avif" alt="" srcset="">
+                
+                <td>¥(JPY)/€(EUR)</td>
+                <td>0,0073€</td>
+            
+            </tr>
+
+            <tr>
+                <td colspan=""><img src="illustration-von-georgia-flagge_53876-27136.avif" alt=""><img src="illustration-der-flagge-der-europaeischen-union_53876-27018.avif" alt="" srcset="">
+                
+                <td>(GEL)/€(EUR)</td>
+                <td>0,32</td>
+            
+            </tr>
+
+
+
+
+
+
+
+    </table border>
+
+
+</body>
+
+
+
+
+</html>
